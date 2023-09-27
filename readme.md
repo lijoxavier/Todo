@@ -2,6 +2,9 @@ The Todo app is a simple application that allows users to manage and keep track 
 
 feat:add todo,edit todo,delete todo ,completed todo implemented using localstorage and reusable buttons,input
 
+## Demo
+[https://todo-beta-smoky.vercel.app/](https://todo-beta-smoky.vercel.app/)
+
 ## Add Task
 
 ![](app-screenshot-1.png)
